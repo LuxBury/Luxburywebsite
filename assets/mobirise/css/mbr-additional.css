@@ -710,6 +710,12 @@ iframe.lazy-placeholder,
 section.lazy-placeholder:after {
   opacity: 0.3;
 }
+.cid-qTkA127IK8 {
+  background-image: url("../../../assets/images/view-of-high-rise-buildings-during-day-time-302769-2000x1334.jpeg");
+}
+.cid-qTkA127IK8 H1 {
+  color: #ffffff;
+}
 .cid-qTkzRZLJNu .navbar {
   padding: .5rem 0;
   background: #ffffff;
@@ -1102,7 +1108,7 @@ section.lazy-placeholder:after {
 .cid-s0PsUewaYp {
   padding-top: 90px;
   padding-bottom: 90px;
-  background-image: url("../../../assets/images/three-white-ceramic-pots-with-green-leaf-plants-near-open-796602-2000x1331.jpg");
+  background-color: #cccccc;
 }
 .cid-s0PsUewaYp .mbr-section-subtitle {
   color: #767676;
@@ -1274,6 +1280,7 @@ section.lazy-placeholder:after {
 .cid-s0PtAzC3Xk {
   padding-top: 90px;
   padding-bottom: 90px;
+  background-image: url("../../../assets/images/background8.jpg");
 }
 .cid-s0PtAzC3Xk H2 {
   text-align: right;
